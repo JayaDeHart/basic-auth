@@ -5,9 +5,9 @@
 A server that uses bcrypt and authentication middleware to store encrypted passwords and protect certain routes
 
 ## Installation
--clone the repo
--npm i
--add a .env with PORT and DATABASE_URL
+- clone the repo
+- npm i
+- add a .env with PORT and DATABASE_URL
 
 
 ## Usage
